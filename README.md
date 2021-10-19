@@ -8,4 +8,4 @@
 #### Rank 0
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [Libft](https://github.com/MarJC5/Libft) | ```C``` | ```Makefile``` ```Library``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/Libft)](https://github.com/JaeSeoKim/badge42)|
+| [Libft](https://github.com/MarJC5/Libft) | ```C``` | ```Makefile``` ```Library``` ```Function``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/Libft)](https://github.com/JaeSeoKim/badge42)|
