@@ -3,7 +3,6 @@
 </h1>
 
 ### PROJECTS
------
 
 #### Rank 0
 | Name | Language | Topics | Status | 
