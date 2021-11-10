@@ -15,4 +15,4 @@
 |---|---|---|---|
 | [get_next_line](https://github.com/MarJC5/get_next_line) | ```C``` | ```Unix``` ```Algorithms & AI``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 | [ft_printf](https://github.com/MarJC5/ft_printf) | ```C``` | ```Unix``` ```Algorithms & AI``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-| [Born2beroot](https://github.com/MarJC5/Born2beroot) | ```Shell``` |  ```Network``` ```system administration``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
+| [Born2beroot](https://github.com/MarJC5/born2beroot) | ```Shell``` |  ```Network``` ```system administration``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
