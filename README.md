@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="42Lausanne" title="42Lausanne" src="https://github.com/MarJC5/42Piscine/blob/main/doc/norminette/42_logo.svg" width="140"> </br>
+    <img alt="42Lausanne" title="42Lausanne" src="https://github.com/MarJC5/42/blob/main/42_logo.svg" width="140"> </br>
 </h1>
 
 ### PROJECTS
