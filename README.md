@@ -19,4 +19,4 @@
 #### Rank 2
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```Applicative``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/so_long)](https://github.com/JaeSeoKim/badge42)|
+| [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```Applicative``` ```2D```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/so_long)](https://github.com/JaeSeoKim/badge42)|
