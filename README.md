@@ -21,3 +21,5 @@
 |---|---|---|---|
 | [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```Applicative``` ```2D```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/so_long)](https://github.com/JaeSeoKim/badge42)|
 | [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/minitalk)](https://github.com/JaeSeoKim/badge42)|
+| [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/exam-rank-02)](https://github.com/JaeSeoKim/badge42)|
+
