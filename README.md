@@ -10,22 +10,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur ac tellus 
 #### Rank 0
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [Libft](https://github.com/MarJC5/Libft) | ```C``` | ```Makefile``` ```Library``` ```Function``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/Libft)](https://github.com/JaeSeoKim/badge42)|
+| [Libft](https://github.com/MarJC5/Libft) | ```C``` | ```Makefile``` ```Library``` ```Function``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/100.png)|
 
 #### Rank 1
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [get_next_line](https://github.com/MarJC5/get_next_line) | ```C``` | ```Unix``` ```Algorithms & AI``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/get_next_line)](https://github.com/JaeSeoKim/badge42)|
-| [ft_printf](https://github.com/MarJC5/ft_printf) | ```C``` | ```Unix``` ```Algorithms & AI``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-| [Born2beroot](https://github.com/MarJC5/born2beroot) | ```Shell``` |  ```Network``` ```sys admin``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
+| [get_next_line](https://github.com/MarJC5/get_next_line) | ```C``` | ```Unix``` ```Algorithms & AI``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/101.png)|
+| [ft_printf](https://github.com/MarJC5/ft_printf) | ```C``` | ```Unix``` ```Algorithms & AI``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/100.png)|
+| [Born2beroot](https://github.com/MarJC5/born2beroot) | ```Shell``` |  ```Network``` ```sys admin``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/125.png)|
 
 #### Rank 2
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```2D```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/so_long)](https://github.com/JaeSeoKim/badge42)|
-| [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/minitalk)](https://github.com/JaeSeoKim/badge42)|
-| [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/push_swap)](https://github.com/JaeSeoKim/badge42)|
-| [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | |
+| [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```2D```| ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/125.png)|
+| [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
+| [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
+| [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 
 
 > PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
