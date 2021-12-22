@@ -3,6 +3,9 @@
 </h1>
 
 ### PROJECTS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur ac tellus eget tempor. Aliquam rhoncus fringilla consequat. Etiam aliquam odio libero, sed vestibulum ligula finibus ut. Suspendisse potenti. 
+
+🤡 More seriously, you can see below, all my 42 Cursus projects.
 
 #### Rank 0
 | Name | Language | Topics | Status | 
@@ -19,8 +22,10 @@
 #### Rank 2
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```Applicative``` ```2D```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/so_long)](https://github.com/JaeSeoKim/badge42)|
+| [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```2D```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/so_long)](https://github.com/JaeSeoKim/badge42)|
 | [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/minitalk)](https://github.com/JaeSeoKim/badge42)|
-| [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` ```Battery concept and handling elements```| [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/push_swap)](https://github.com/JaeSeoKim/badge42)|
+| [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jmartin/push_swap)](https://github.com/JaeSeoKim/badge42)|
 | [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | |
 
+
+> PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
