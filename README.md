@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur ac tellus 
 | Name | Language | Topics | Status | 
 |---|---|---|---|
 | [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```2D```| ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/125.png)|
-| [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
+| [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/115.png)|
 | [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
 | [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 
