@@ -5,7 +5,7 @@
 ### PROJECTS
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur ac tellus eget tempor. Aliquam rhoncus fringilla consequat. Etiam aliquam odio libero, sed vestibulum ligula finibus ut. Suspendisse potenti. 
 
-🤡 More seriously, you can see below, all my 42 Cursus projects.
+You can see below, all my 42 Cursus projects.
 
 #### Rank 0
 | Name | Language | Topics | Status | 
