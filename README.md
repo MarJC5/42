@@ -24,13 +24,14 @@ You can see below, all my 42 Cursus projects.
 |---|---|---|---|
 | [so_long](https://github.com/MarJC5/so_long) | ```C``` | ```Graphics``` ```2D```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/125.png)|
 | [minitalk](https://github.com/MarJC5/minitalk) | ```C``` | ```Rigor``` ```Unix signals```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/115.png)|
-| [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
-| [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | ![jaeskim's 42Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
+| [push_swap](https://github.com/MarJC5/push_swap) | ```C``` |  ```Sorting algorithms``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/84.png)|
+| [Exam Rank 02](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank02) | ```C``` |  ```Algorithms & AI``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
 
 #### Rank 3
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [Philosophers](https://github.com/MarJC5/Philosophers) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
 | [minishell](https://github.com/MarJC5/minishell) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
+| [Philosophers](https://github.com/MarJC5/Philosophers) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
+| [Exam Rank 03](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank03) | ```C``` |  ```Algorithms & AI``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 
 > PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
