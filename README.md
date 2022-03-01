@@ -31,6 +31,6 @@ You can see below, all my 42 Cursus projects.
 | Name | Language | Topics | Status | 
 |---|---|---|---|
 | [Philosophers](https://github.com/MarJC5/Philosophers) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
-
+| [minishell](https://github.com/MarJC5/minishell) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
 
 > PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
