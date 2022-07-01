@@ -30,7 +30,7 @@ You can see below, all my 42 Cursus projects.
 #### Rank 3
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [minishell](https://github.com/MarJC5/minishell) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png)|
+| [minishell](https://github.com/MarJC5/minishell) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/97.png)|
 | [Philosophers](https://github.com/MarJC5/Philosophers) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png)|
 | [Exam Rank 03](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank03) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 
