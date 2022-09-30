@@ -40,6 +40,6 @@ You can see below, all my 42 Cursus projects.
 | [NetPractice](https://github.com/MarJC5/NetPractice) | ```Network``` |  ```System administration``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 | [cub3d](https://github.com/MarJC5/cub3d) | ```C``` |  ```Graphics``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 | [CPP_Module](https://github.com/MarJC5/CPP_Module) | ```C++``` |  ```Object-oriented programming``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
-| [Exam Rank 04](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank04) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
+| [Exam Rank 04](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank04) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
 
 > PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
