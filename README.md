@@ -15,7 +15,7 @@ You can see below, all my 42 Cursus projects.
 #### Rank 1
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [get_next_line](https://github.com/MarJC5/get_next_line) | ```C``` | ```Unix``` ```Algorithms & AI``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/101.png)|
+| [get_next_line](https://github.com/MarJC5/get_next_line) | ```C``` | ```Unix``` ```Algorithms & AI``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/125.png)|
 | [ft_printf](https://github.com/MarJC5/ft_printf) | ```C``` | ```Unix``` ```Algorithms & AI``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png)|
 | [Born2beroot](https://github.com/MarJC5/born2beroot) | ```Shell``` |  ```Network``` ```sys admin``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/125.png)|
 
