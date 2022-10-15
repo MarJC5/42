@@ -30,15 +30,15 @@ You can see below, all my 42 Cursus projects.
 #### Rank 3
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [minishell](https://github.com/MarJC5/minishell) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/97.png)|
 | [Philosophers](https://github.com/MarJC5/Philosophers) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png)|
+| [minishell](https://github.com/MarJC5/minishell) | ```C``` |```Imperative programming```| ![Project Score](https://github.com/MarJC5/42/blob/main/status/97.png)|
 | [Exam Rank 03](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank03) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
 
 #### Rank 4
 | Name | Language | Topics | Status | 
 |---|---|---|---|
-| [NetPractice](https://github.com/MarJC5/NetPractice) | ```Network``` |  ```System administration``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
 | [cub3d](https://github.com/MarJC5/cub3d) | ```C``` |  ```Graphics``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/120.png) |
+| [NetPractice](https://github.com/MarJC5/NetPractice) | ```Network``` |  ```System administration``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
 | [CPP_Module](https://github.com/MarJC5/CPP_Module) | ```C++``` |  ```Object-oriented programming``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 | [Exam Rank 04](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank04) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
 
