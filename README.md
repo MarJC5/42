@@ -46,7 +46,13 @@ You can see below, all my 42 Cursus projects.
 | Name | Language | Topics | Status | 
 |---|---|---|---|
 | [Inception](https://github.com/MarJC5/Inception) | ```C``` |  ```Graphics``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/115.png) |
-| [webserv](https://github.com/MarJC5/webserv) | ```Network``` |  ```System administration``` ```Unix``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
+| [webserv](https://github.com/MarJC5/webserv) | ```Network``` |  ```System administration``` ```Unix``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
+| [Exam Rank 05](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank05) | ```C++``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/100.png) |
+
+#### Rank 6
+| Name | Language | Topics | Status | 
+|---|---|---|---|
+| [ft_transcendence](https://github.com/4-04-squad/ft_transcendence) | ```TypeScript``` |  ```Group & interpersonal``` ```Web``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 | [Exam Rank 05](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank05) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 
 > PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
