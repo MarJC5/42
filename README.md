@@ -53,6 +53,6 @@ You can see below, all my 42 Cursus projects.
 | Name | Language | Topics | Status | 
 |---|---|---|---|
 | [ft_transcendence](https://github.com/4-04-squad/ft_transcendence) | ```TypeScript``` |  ```Group & interpersonal``` ```Web``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
-| [Exam Rank 05](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank05) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
+| [Exam Rank 06](https://github.com/MarJC5/42-Exam-Rank/tree/main/Rank06) | ```C``` |  ```Exam``` | ![Project Score](https://github.com/MarJC5/42/blob/main/status/suscribed.png) |
 
 > PS: You, yes you 42 Student. Be smart, 🤷🏾‍♂️ who knows if all of these are correct.
