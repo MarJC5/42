@@ -8,20 +8,6 @@ Here you can find all the projects I have done during my time at 42 Lausanne.
 
 I'm currently working on [Piscine Cybersecurity](https://github.com/MarJC5/piscine_cybersecurity) to learn more about the world of cybersecurity.
 
-```c
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   42Lausanne.c                                       :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: jmartin <jmartin@student.42.fr>            +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/01 21:16:18 by jmartin           #+#    #+#             */
-/*   Updated: 2023/06/19 16:55:42 by jmartin          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-```
-
 <details>
 <summary><strong>Rank 00</strong></summary>
 
