@@ -67,7 +67,7 @@ I'm currently working on [Piscine Cybersecurity](https://github.com/MarJC5/pisci
 </details>
 
 <details>
-H
+
 <summary><strong>Rank 05</strong></summary>
 
 | Name | Language | Topics | Status |
