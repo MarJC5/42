@@ -91,15 +91,6 @@ I'm currently working on [Piscine Cybersecurity](https://github.com/MarJC5/pisci
 
 <details>
 
-<summary><strong>Common Core</strong></summary>
-
-| Name | Language | Topics | Status |
-|---|---|---|---|
-
-</details>
-
-<details>
-
 <summary><strong>Piscine Cybersecurity</strong></summary>
 
 | Name | Language | Topics | Status |
