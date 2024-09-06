@@ -6,7 +6,7 @@
 
 Here you can find all the projects I have done during my time at 42 Lausanne.
 
-I'm currently working on [Piscine Cybersecurity](https://github.com/MarJC5/piscine_cybersecurity) to learn more about the world of cybersecurity.
+I'm currently working on [Inception of Things](https://github.com/MaximePouce/42-Inception_of_Things).
 
 <details>
 <summary><strong>Rank 00</strong></summary>
