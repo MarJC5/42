@@ -91,9 +91,11 @@ I'm currently working on [Piscine Cybersecurity](https://github.com/MarJC5/pisci
 
 <details>
 
-<summary><strong>Piscine Cybersecurity</strong></summary>
+<summary><strong>Specialization</strong></summary>
 
 | Name | Language | Topics | Status |
 |---|---|---|---|
+| [camagru](https://github.com/MarJC5/camagru) | ```PHP``` | ```Web``` | `pending/100` |
+| [Inception of Things](https://github.com/MaximePouce/42-Inception_of_Things) | ```Network``` |  ```Kubernetes``` ```Vagrant``` ```Virtualization``` | `pending/100` |
 
 </details>
