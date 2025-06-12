@@ -6,7 +6,7 @@
 
 Here you can find all the projects I have done during my time at 42 Lausanne.
 
-I'm currently working on [Inception of Things](https://github.com/MaximePouce/42-Inception_of_Things).
+I'm currently working on [red-tetris](https://github.com/MarJC5/red-tetris).
 
 <details>
 <summary><strong>Rank 00</strong></summary>
@@ -97,6 +97,7 @@ I'm currently working on [Inception of Things](https://github.com/MaximePouce/42
 |---|---|---|---|
 | [camagru](https://github.com/MarJC5/camagru) | ```PHP``` | ```Web``` | `pending/100` |
 | [ft_linux](https://github.com/MarJC5/ft_linux) | ```Kernel``` |  ```Unix``` | `pending/100` |
+| [red-tetris](https://github.com/MarJC5/red-tetris) | ```Socket``` |  ```Web``` | `pending/100` |
 | [Inception of Things](https://github.com/MaximePouce/42-Inception_of_Things) | ```Network``` |  ```Kubernetes``` ```Vagrant``` ```Virtualization``` | `100/100` |
 
 </details>
